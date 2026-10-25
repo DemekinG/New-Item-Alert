@@ -3,22 +3,7 @@
 個人が開発し、無償で提供するブラウザ拡張機能「New Item Alert」（以下「本ツール」といいます。）の、情報の取り扱いについて定めるものです。
 <!DOCTYPE html>
 <html lang="ja">
-<head>
-<meta charset="utf-8">
-<title>New Item Alert プライバシーポリシー</title>
-<style>
-  body { margin: 0; background: #f4f5f7; color: #1a1a1a;
-         font-family: 'Yu Gothic UI', 'Meiryo', 'Noto Sans JP', sans-serif; }
-  main { max-width: 760px; margin: 0 auto; padding: 40px 24px 64px; background: #fff;
-         box-shadow: 0 0 0 1px #e3e5e8; }
-  h1 { font-size: 22px; margin: 0 0 4px; }
-  .lead { color: #555; font-size: 13px; margin: 0 0 28px; }
-  h2 { font-size: 15px; margin: 28px 0 8px; padding-left: 8px; border-left: 3px solid #c4304b; }
-  p, li { font-size: 13.5px; line-height: 1.85; }
-  ul { padding-left: 22px; }
-  .meta { margin-top: 40px; color: #555; font-size: 12.5px; }
-</style>
-</head>
+
 <body>
 <main>
   <h1>New Item Alert プライバシーポリシー</h1>
